@@ -1,0 +1,10 @@
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\bin\Debug\App03-Calculadora.exe.config
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\bin\Debug\App03-Calculadora.exe
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\bin\Debug\App03-Calculadora.pdb
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.AssemblyReference.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03_Calculadora.Form1.resources
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03_Calculadora.Properties.Resources.resources
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.GenerateResource.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.CoreCompileInputs.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.exe
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.pdb
