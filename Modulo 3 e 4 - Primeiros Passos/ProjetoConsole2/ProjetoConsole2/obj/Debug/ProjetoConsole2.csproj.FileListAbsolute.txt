@@ -1,0 +1,7 @@
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\bin\Debug\ProjetoConsole2.exe.config
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\bin\Debug\ProjetoConsole2.exe
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\bin\Debug\ProjetoConsole2.pdb
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\obj\Debug\ProjetoConsole2.csproj.AssemblyReference.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\obj\Debug\ProjetoConsole2.csproj.CoreCompileInputs.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\obj\Debug\ProjetoConsole2.exe
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\ProjetoConsole2\ProjetoConsole2\obj\Debug\ProjetoConsole2.pdb
