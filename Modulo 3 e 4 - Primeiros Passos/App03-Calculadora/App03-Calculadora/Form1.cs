@@ -35,7 +35,7 @@ namespace App03_Calculadora
 
             else
             {
-                if (Regex.IsMatch(txtBoxValor.Text, @"^\d+$") && Regex.IsMatch(txtBoxQuantidade.Text, @"^[0-9]+$"))
+                if (Regex.IsMatch(txtBoxValor.Text, @"^\d" ) && Regex.IsMatch(txtBoxQuantidade.Text, @"^[0-9]+$"))
                 {
                     valor = Convert.ToDouble(txtBoxValor.Text);
                     quantidade = Convert.ToInt32(txtBoxQuantidade.Text);
