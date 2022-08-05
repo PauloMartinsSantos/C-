@@ -1,0 +1,10 @@
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\bin\Debug\App02.exe.config
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\bin\Debug\App02.exe
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\bin\Debug\App02.pdb
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.csproj.AssemblyReference.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.Form1.resources
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.Properties.Resources.resources
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.csproj.GenerateResource.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.csproj.CoreCompileInputs.cache
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.exe
+C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App02\App02\obj\Debug\App02.pdb
