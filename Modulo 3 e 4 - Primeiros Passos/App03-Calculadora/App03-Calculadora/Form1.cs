@@ -28,15 +28,18 @@ namespace App03_Calculadora
             {
                 MessageBox.Show("Preencha o Valor do produto");
             }
+            else if (Regex.IsMatch(txtBoxValor.Text, @"^[A - Za - záàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ]+$"))
+            {
+                MessageBox.Show("[ERRO] Digite um valor válido");
+
+            }
             else if(txtBoxQuantidade.Text == string.Empty)
             {
                 MessageBox.Show("Preencha a quantidade");
             }
 
-            else
+            else if (Regex.IsMatch(txtBoxQuantidade.Text, @"^[0-9]+$"))
             {
-                if (Regex.IsMatch(txtBoxValor.Text, @"^\d" ) && Regex.IsMatch(txtBoxQuantidade.Text, @"^[0-9]+$"))
-                {
                     valor = Convert.ToDouble(txtBoxValor.Text);
                     quantidade = Convert.ToInt32(txtBoxQuantidade.Text);
                     resultado = valor * quantidade;
@@ -46,8 +49,8 @@ namespace App03_Calculadora
                 {
                     MessageBox.Show("[ERRO] Digite um valor válido");
                 }                  
-                // VERIFICAÇÃO DE VALOR / QUANTIDADE INVÁLIDO SENDO REALIZADO NO FINAL... TODO: Individualizar a validação.            
+                    
             }            
         }
     }
-}
+
