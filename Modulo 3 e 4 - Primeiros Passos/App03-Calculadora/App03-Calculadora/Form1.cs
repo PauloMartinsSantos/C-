@@ -28,7 +28,7 @@ namespace App03_Calculadora
             {
                 MessageBox.Show("Preencha o Valor do produto");
             }
-            else if (Regex.IsMatch(txtBoxValor.Text, @"^[A - Za - záàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ]+$"))
+            else if (Regex.IsMatch(txtBoxValor.Text, @"^[A - Za - záàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ,.;:/?°<>´`=_¹²³£¢¬{[}}ºç!@#$%¨&*()_*-+.]+$"))
             {
                 MessageBox.Show("[ERRO] Digite um valor válido");
 
