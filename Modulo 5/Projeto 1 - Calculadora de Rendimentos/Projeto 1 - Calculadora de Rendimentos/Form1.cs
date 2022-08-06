@@ -16,5 +16,44 @@ namespace Projeto_1___Calculadora_de_Rendimentos
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            decimal aporte;
+            int prazo;
+            decimal taxa;
+            decimal valorFinal;
+
+            aporte = Convert.ToDecimal(txtBoxAporte.Text);
+            prazo = Convert.ToInt32(txtBoxPrazo.Text);
+            taxa = Convert.ToDecimal(txtBoxTaxa.Text);
+            
+            taxa = taxa / 100;
+            valorFinal = aporte;            
+
+            for(int i = 0; i < prazo; i++)
+            {
+                valorFinal = valorFinal + (valorFinal * taxa);
+            }
+
+            string[] vf;
+            vf = Convert.ToString(valorFinal).Split(',');
+
+            txtBoxValortotal.Text = vf[0] + "," + vf[1].Substring(0,2);
+            
+            decimal lucro = valorFinal - aporte;
+            
+            string[] lf;
+            lf = Convert.ToString(lucro).Split(',');
+            txtBoxLucro.Text = lf[0] + "," + lf[1].Substring(0, 2);
+
+
+
+        }
     }
 }
