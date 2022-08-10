@@ -8,3 +8,14 @@ C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculado
 C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.CoreCompileInputs.cache
 C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.exe
 C:\Programação Aplicada com C#\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\bin\Debug\App03-Calculadora.exe.config
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\bin\Debug\App03-Calculadora.exe
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\bin\Debug\App03-Calculadora.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.AssemblyReference.cache
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03_Calculadora.Form1.resources
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03_Calculadora.Properties.Resources.resources
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.GenerateResource.cache
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.csproj.CoreCompileInputs.cache
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.exe
+C:\Repositorios_GitHub\CSharp\Modulo 3 e 4 - Primeiros Passos\App03-Calculadora\App03-Calculadora\obj\Debug\App03-Calculadora.pdb
