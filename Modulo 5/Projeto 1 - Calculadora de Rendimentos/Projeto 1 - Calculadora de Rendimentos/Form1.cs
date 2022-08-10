@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace Projeto_1___Calculadora_de_Rendimentos
 {
@@ -28,12 +29,27 @@ namespace Projeto_1___Calculadora_de_Rendimentos
             int prazo;
             decimal taxa;
             decimal valorFinal;
+            string msgErro;
+                        
+            if(txtBoxAporte.Text == string.Empty || txtBoxPrazo.Text == string.Empty || txtBoxTaxa.Text == string.Empty)
+            {
+                MessageBox.Show("[ERRO] preencha todos os campos");
+            }
 
-            aporte = Convert.ToDecimal(txtBoxAporte.Text);
-            prazo = Convert.ToInt32(txtBoxPrazo.Text);
-            taxa = Convert.ToDecimal(txtBoxTaxa.Text);
-            
-            taxa = taxa / 100;
+            else if (Regex.IsMatch(txtBoxAporte.Text,@"^|^\d +$"))
+            {
+                msgErro = "APORTE";
+                MessageBox.Show("[ERRO] Valor digitado {0} no inválido!",msgErro);
+
+            }
+
+            else {
+
+                aporte = Convert.ToDecimal(txtBoxAporte.Text);
+                prazo = Convert.ToInt32(txtBoxPrazo.Text);
+                taxa = Convert.ToDecimal(txtBoxTaxa.Text);
+
+                taxa = taxa / 100;
             valorFinal = aporte;            
 
             for(int i = 0; i < prazo; i++)
@@ -51,7 +67,7 @@ namespace Projeto_1___Calculadora_de_Rendimentos
             string[] lf;
             lf = Convert.ToString(lucro).Split(',');
             txtBoxLucro.Text = lf[0] + "," + lf[1].Substring(0, 2);
-
+            }
 
 
         }
