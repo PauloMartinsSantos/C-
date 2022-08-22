@@ -8,3 +8,14 @@ C:\Programação Aplicada com C#\Modulo 5\Projeto 1 - Calculadora de Rendimentos
 C:\Programação Aplicada com C#\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.csproj.CoreCompileInputs.cache
 C:\Programação Aplicada com C#\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.exe
 C:\Programação Aplicada com C#\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\bin\Debug\Projeto 1 - Calculadora de Rendimentos.exe.config
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\bin\Debug\Projeto 1 - Calculadora de Rendimentos.exe
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\bin\Debug\Projeto 1 - Calculadora de Rendimentos.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.csproj.AssemblyReference.cache
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.csproj.SuggestedBindingRedirects.cache
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto_1___Calculadora_de_Rendimentos.Form1.resources
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto_1___Calculadora_de_Rendimentos.Properties.Resources.resources
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.csproj.GenerateResource.cache
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.csproj.CoreCompileInputs.cache
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.exe
+C:\Repositorios_GitHub\CSharp\Modulo 5\Projeto 1 - Calculadora de Rendimentos\Projeto 1 - Calculadora de Rendimentos\obj\Debug\Projeto 1 - Calculadora de Rendimentos.pdb

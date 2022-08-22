@@ -36,12 +36,34 @@ namespace Projeto_1___Calculadora_de_Rendimentos
                 MessageBox.Show("[ERRO] preencha todos os campos");
             }
 
-            else if (Regex.IsMatch(txtBoxAporte.Text,@"^|^\d +$"))
+            else if (Regex.IsMatch(txtBoxAporte.Text, @"^[A - Za - záàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ ]+$"))
             {
+                //Obs: Campos tratados apenas para não aceitar letras, demais tratamentos serão desenvolvidos em exemplos futuros
+
                 msgErro = "APORTE";
-                MessageBox.Show("[ERRO] Valor digitado {0} no inválido!",msgErro);
+                MessageBox.Show("[ERRO] Valor digitado inválido no campo: " + msgErro);
 
             }
+
+            else if (Regex.IsMatch(txtBoxPrazo.Text, @"^[A - Za - záàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ ]+$"))
+            {
+                //Obs: Campos tratados apenas para não aceitar letras, demais tratamentos serão desenvolvidos em exemplos futuros
+
+                msgErro = "PRAZO";
+                MessageBox.Show("[ERRO] Valor digitado inválido no campo: " + msgErro);
+
+            }
+
+            else if (Regex.IsMatch(txtBoxTaxa.Text, @"^[A - Za - záàâãéèêíïóôõöúçñÁÀÂÃÉÈÍÏÓÔÕÖÚÇÑ ]+$"))
+            {
+                //Obs: Campos tratados apenas para não aceitar letras, demais tratamentos serão desenvolvidos em exemplos futuros
+
+                msgErro = "TAXA";
+                MessageBox.Show("[ERRO] Valor digitado inválido no campo: " + msgErro);
+
+            }
+
+
 
             else {
 
@@ -71,5 +93,7 @@ namespace Projeto_1___Calculadora_de_Rendimentos
 
 
         }
+
+        
     }
 }
