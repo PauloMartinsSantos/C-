@@ -1,0 +1,11 @@
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\bin\Debug\Gasolina_Etanol.exe.config
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\bin\Debug\Gasolina_Etanol.exe
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\bin\Debug\Gasolina_Etanol.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.csproj.AssemblyReference.cache
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.csproj.SuggestedBindingRedirects.cache
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.Form1.resources
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.Properties.Resources.resources
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.csproj.GenerateResource.cache
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.csproj.CoreCompileInputs.cache
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.exe
+C:\Repositorios_GitHub\CSharp\Modulo 6\Gasolina_Etanol\Gasolina_Etanol\obj\Debug\Gasolina_Etanol.pdb
