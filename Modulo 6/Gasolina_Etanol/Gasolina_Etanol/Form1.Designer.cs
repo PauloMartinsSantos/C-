@@ -62,20 +62,19 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(159, 27);
+            this.textBox1.Location = new System.Drawing.Point(186, 25);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(55, 17);
+            this.textBox1.Size = new System.Drawing.Size(55, 26);
             this.textBox1.TabIndex = 2;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(159, 63);
+            this.textBox2.Location = new System.Drawing.Point(186, 62);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(55, 17);
+            this.textBox2.Size = new System.Drawing.Size(55, 26);
             this.textBox2.TabIndex = 3;
             // 
             // button1
@@ -100,7 +99,6 @@
             this.label3.Size = new System.Drawing.Size(273, 20);
             this.label3.TabIndex = 5;
             this.label3.Text = "É mais vantajoso abastecer com:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // domainUpDown1
             // 
@@ -115,7 +113,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(388, 359);
+            this.ClientSize = new System.Drawing.Size(372, 285);
             this.Controls.Add(this.domainUpDown1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button1);
