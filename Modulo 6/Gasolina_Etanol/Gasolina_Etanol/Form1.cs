@@ -18,7 +18,22 @@ namespace Gasolina_Etanol
         }
         private void button1_Click(object sender, EventArgs e)
         {
+            double etanol = Convert.ToDouble(textBoxEtanol.Text);
+            double gasolina = Convert.ToDouble(textBoxGasolina.Text);
+            double resultado;
 
+            resultado = etanol / gasolina;
+
+            if(resultado < 0.7)
+            {
+                labelResultado.Text = "ETANOL";
+            }
+            else
+            {
+                labelResultado.Text = "GASOLINA";
+            }
+
+            // TO DO: Tratamento na entrada de dados
         }
     }
 }
