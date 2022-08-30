@@ -1,0 +1,17 @@
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\bin\Debug\net6.0-windows\Formulario_Padrao.exe
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\bin\Debug\net6.0-windows\Formulario_Padrao.deps.json
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\bin\Debug\net6.0-windows\Formulario_Padrao.runtimeconfig.json
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\bin\Debug\net6.0-windows\Formulario_Padrao.dll
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\bin\Debug\net6.0-windows\Formulario_Padrao.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.csproj.AssemblyReference.cache
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.Form1.resources
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.csproj.GenerateResource.cache
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.AssemblyInfoInputs.cache
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.AssemblyInfo.cs
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.csproj.CoreCompileInputs.cache
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.dll
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\refint\Formulario_Padrao.dll
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.pdb
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\Formulario_Padrao.genruntimeconfig.cache
+C:\Repositorios_GitHub\CSharp\Modulo 7\Formulario_Padrao\Formulario_Padrao\obj\Debug\net6.0-windows\ref\Formulario_Padrao.dll
