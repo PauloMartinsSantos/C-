@@ -9,7 +9,7 @@ namespace Formulario_Padrao
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            textBoxLista.AppendText (textBoxID.Text + "-" + textBoxNome.Text + "-" + textBoxTipo.Text + "\r\n");
         }
 
         private void Form1_Load(object sender, EventArgs e)
