@@ -9,7 +9,7 @@ namespace Formulario_Padrao
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBoxLista.AppendText ("ID: " + textBoxID.Text + "Nome: " + textBoxNome.Text + "Tipo: " + textBoxTipo.Text + "\r\n");
+            textBoxLista.AppendText ("ID: " + textBoxID.Text + " Nome: " + textBoxNome.Text + " Tipo: " + textBoxTipo.Text +"" + dateTimePicker1.Value.Date. + comboBoxEstado.SelectedItem +  "\r\n");
         }
 
         private void Form1_Load(object sender, EventArgs e)
